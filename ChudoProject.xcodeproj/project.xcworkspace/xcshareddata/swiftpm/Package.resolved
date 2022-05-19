@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "auto-layout-sugar-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Heads-and-Hands/auto-layout-sugar-ios",
+      "state" : {
+        "branch" : "develop",
+        "revision" : "1b57b50cf4e6b7715634df41a565b6d94637ca3d"
+      }
+    }
+  ],
+  "version" : 2
+}
